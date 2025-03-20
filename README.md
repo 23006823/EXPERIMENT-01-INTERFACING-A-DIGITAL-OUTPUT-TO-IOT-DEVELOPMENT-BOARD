@@ -107,11 +107,13 @@ int main(void)
 ## OUTPUT
 ## OFF
 
-![alt text](<WhatsApp Image 2025-03-17 at 7.48.02 PM.jpeg>)
+![WhatsApp Image 2025-03-13 at 11 41 19_ab29526c](https://github.com/user-attachments/assets/59e12d6a-1965-45ff-aad4-ea62ecaa4d46)
+
 
 ## ON
 
-![alt text](<WhatsApp Image 2025-03-17 at 7.48.03 PM.jpeg>)
+![WhatsApp Image 2025-03-13 at 11 41 20_16d0f6ce](https://github.com/user-attachments/assets/95ecea4e-e845-46ae-bec6-b5d72710c574)
+
 ## Result
 
 Interfacing a digital output with ARM microcontroller based IOT development is executed and the results are verified.
